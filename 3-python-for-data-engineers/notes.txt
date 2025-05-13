@@ -1,2 +1,0 @@
-https://www.startdataengineering.com/post/python-for-de/
-https://github.com/josephmachado/python_essentials_for_data_engineers
